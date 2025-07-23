@@ -82,4 +82,4 @@ CNNs can be used to detect and classify traffic signals
 Conclusion This project showcases how CNNs are designed to work with image data efficiently and demonstrates their strength in recognizing visual patterns.
 
 OUTPUT :
-<img width="805" height="492" alt="Image" src="https://github.com/user-attachments/assets/c95cbeca-5a5a-47a6-ac0c-beb9c17db55e" />
+<img width="805" height="492" alt="Image" src="https://github.com/user-attachments/assets/c95cbeca-5a5a-47a6-ac0c-beb9c17db55e" /> 
